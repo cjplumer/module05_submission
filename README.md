@@ -24,3 +24,6 @@ Finding: people driving with friends were more likely to accept coupons than tho
 4) Coupon expiration date
 
 Finding: Coupons with an expiration date of 1 day were much more likely to be accepted than those that expired in 2 hours
+
+
+The Jupyter workbook that was used to come to the above findings is available in this GitHub repository here: module_5_assignment_workbook.ipynb
